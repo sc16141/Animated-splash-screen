@@ -1,4 +1,5 @@
 # demo_splashscreen
+I also add the lottie animation effect and using the denpandency
 
 A new Flutter project.
 
